@@ -1,0 +1,19 @@
+{
+    "length": 596.0097959183673,
+    "Bitrate": 128000,
+    "Sample rate": 44100,
+    "channels": 2,
+    "encoder_info": "",
+    "encoder_settings": "",
+    "bitrate_mode": 1,
+    "track_gain": null,
+    "track_peak": null,
+    "album_gain": null,
+    "version": [
+        2,
+        4,
+        0
+    ],
+    "size": 327,
+    "frames": []
+}
