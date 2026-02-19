@@ -1,7 +1,7 @@
 import pikepdf
 import json
 
-pdf_path = "doc3.pdf"
+pdf_path = "doc.pdf"
 result = {}
 with pikepdf.open(pdf_path) as pdf:
     

@@ -1,6 +1,6 @@
 import fitz  # PyMuPDF
 
-doc = fitz.open("doc3.pdf")
+doc = fitz.open("doc.pdf")
 meta = doc.metadata
 
 print(doc.pages)

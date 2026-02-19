@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 
-path = "doc3.pdf"
+path = "doc.pdf"
 
 reader = PdfReader(path)
 
